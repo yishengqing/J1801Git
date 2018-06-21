@@ -2,6 +2,7 @@ package com.rimi.app;
 
 public class Application {
 	public static void main(String[] args) {
-		//ĞÇÆÚÒ»
+		//æ˜ŸæœŸä¸€
+		//æ˜ŸæœŸäºŒ
 	}
 }
